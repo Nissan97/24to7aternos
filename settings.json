@@ -9,8 +9,8 @@
     "ip": "LegendsGang.aternos.me",
     "port": 54620,
     "version": "",
-    "require-resource-pack": true,
-    "try-creative": false
+    "try-creative": false,
+    "require-resource-pack": true
   },
   "position": {
     "enabled": true,
