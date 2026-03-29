@@ -40,11 +40,11 @@
     "chat-log": true,
     "auto-reconnect": true,
     "auto-reconnect-delay": 2,
-    "max-reconnect-delay": 150,
+    "max-reconnect-delay": 10,
     "periodic-rejoin": {
       "enabled": false,
-      "min-interval": 20,
-      "max-interval": 60
+      "min-interval": 10,
+      "max-interval": 30
     }
   },
   "movement": {
