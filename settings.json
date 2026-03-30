@@ -9,8 +9,7 @@
     "ip": "LegendsGang.aternos.me",
     "port": 54620,
     "version": "",
-    "try-creative": false,
-    "require-resource-pack": true
+    "try-creative": false
   },
   "position": {
     "enabled": true,
@@ -40,10 +39,10 @@
     "chat-log": true,
     "auto-reconnect": true,
     "auto-reconnect-delay": 2,
-    "max-reconnect-delay": 10,
+    "max-reconnect-delay": 50,
     "periodic-rejoin": {
       "enabled": false,
-      "min-interval": 10,
+      "min-interval": 2,
       "max-interval": 30
     }
   },
